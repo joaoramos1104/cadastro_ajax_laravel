@@ -1,0 +1,10 @@
+{
+    "/js/jquery/jquery.js": "/js/jquery/jquery.js",
+    "/js/bootstrap/bootstrap.bundle.js": "/js/bootstrap/bootstrap.bundle.js",
+    "/js/bootstrap/bootstrap.js": "/js/bootstrap/bootstrap.js",
+    "/js/bootstrap/bootstrap.esm.js": "/js/bootstrap/bootstrap.esm.js",
+    "/css/bootstrap/bootstrap-grid.css": "/css/bootstrap/bootstrap-grid.css",
+    "/css/bootstrap/bootstrap-utilities.css": "/css/bootstrap/bootstrap-utilities.css",
+    "/css/bootstrap/bootstrap-reboot.css": "/css/bootstrap/bootstrap-reboot.css",
+    "/css/bootstrap/bootstrap.css": "/css/bootstrap/bootstrap.css"
+}
